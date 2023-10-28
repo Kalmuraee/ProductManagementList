@@ -55,6 +55,11 @@ Identify Opportunity > Set Goals > Plan > Develop > Launch > Assess and learn
 - Mind the product: https://www.mindtheproduct.com/
 - Masters of Scale: https://mastersofscale.com/
 - The Product Podcast: https://open.spotify.com/show/1XBrhVLsQOIAv3KFBqnzrX
+- Newsletters: https://productschool.com/blog/education/11-newsletters-product-managers
+### Strategy:
+- Ben Evans: https://www.ben-evans.com/
+- A16Z: https://future.a16z.com/
+- Stratechery: https://stratechery.com/
 
 ## Contributions:
 This curated list is a work in progress and we welcome contributions from the community. If you have any suggestions for additional frameworks, reading materials, tools, or links, please feel free to submit a pull request or open an issue on our GitHub repository. Thank you for your contributions! 
